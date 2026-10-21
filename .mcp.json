@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "buildy": { "type": "http", "url": "https://www.buildy.ai/api/mcp" }
+  }
+}

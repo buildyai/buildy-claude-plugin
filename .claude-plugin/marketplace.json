@@ -1,0 +1,17 @@
+{
+  "name": "buildy",
+  "owner": {
+    "name": "Buildy",
+    "url": "https://buildy.ai"
+  },
+  "metadata": {
+    "description": "The official Buildy plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "buildy",
+      "source": "./",
+      "description": "Work with Buildy projects, inspect previews, and use Buildy's AI business tools from a conversation. Learn more at https://buildy.ai."
+    }
+  ]
+}
