@@ -1,12 +1,13 @@
 {
   "name": "buildy",
   "displayName": "Buildy AI Website & App Builder",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Build, host and launch complete websites, web apps, online stores, landing pages and sales funnels with Buildy.",
   "author": {
     "name": "Buildy, Inc.",
     "url": "https://www.buildy.ai"
   },
   "homepage": "https://www.buildy.ai",
+  "privacyPolicyUrl": "https://www.buildy.ai/privacy",
   "license": "MIT"
 }

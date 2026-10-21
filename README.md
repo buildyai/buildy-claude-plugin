@@ -4,11 +4,11 @@ Create websites, web apps, online stores and sales funnels from a conversation. 
 
 The connector sends requests to the normal Buildy agent. Actions use your existing permissions, setup, billing and confirmations. Some features require a plan, purchased resources, usage allowance or external advertising spend. Availability also depends on the host's policies. There is no separate free allowance in this package.
 
-Website: https://buildy.ai
+Website: https://www.buildy.ai
 
-Privacy: https://buildy.ai/privacy
+Privacy: https://www.buildy.ai/privacy
 
-Terms: https://buildy.ai/terms
+Terms: https://www.buildy.ai/terms
 
 Support: https://docs.buildy.ai
 
